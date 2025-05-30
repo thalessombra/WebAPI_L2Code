@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver_embalagem
+    environment:
+      SA_PASSWORD: "SuaSenhaForte123!"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserverdata:/var/opt/mssql
+
+  api:
+    build:
+      context: ./EmbalagemLojaApi
+      dockerfile: Dockerfile
+    container_name: embalagem_api
+    depends_on:
+      - sqlserver
+    ports:
+      - "5000:80"
+    environment:
+      ConnectionStrings__DefaultConnection: "Server=sqlserver;Database=EmbalagemDB;User Id=sa;Password=SuaSenhaForte123!;TrustServerCertificate=True;"
+
+volumes:
+  sqlserverdata:
