@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|c:\\users\\55859\\onedrive\\\u00E1rea de trabalho\\webapi\\embalagemlojaapi\\embalagemlojaapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|solutionrelative:embalagemlojaapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|c:\\users\\55859\\onedrive\\\u00E1rea de trabalho\\webapi\\embalagemlojaapi\\embalagemlojaapi\\embalagemlojaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|solutionrelative:embalagemlojaapi\\embalagemlojaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|c:\\users\\55859\\onedrive\\\u00E1rea de trabalho\\webapi\\embalagemlojaapi\\embalagemlojaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|solutionrelative:embalagemlojaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|c:\\users\\55859\\onedrive\\\u00E1rea de trabalho\\webapi\\embalagemlojaapi\\embalagemlojaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|solutionrelative:embalagemlojaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|c:\\users\\55859\\onedrive\\\u00E1rea de trabalho\\webapi\\embalagemlojaapi\\embalagemlojaapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|solutionrelative:embalagemlojaapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|c:\\users\\55859\\onedrive\\\u00E1rea de trabalho\\webapi\\embalagemlojaapi\\embalagemlojaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|solutionrelative:embalagemlojaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|c:\\users\\55859\\onedrive\\\u00E1rea de trabalho\\webapi\\embalagemlojaapi\\embalagemlojaapi\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|solutionrelative:embalagemlojaapi\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|c:\\users\\55859\\onedrive\\\u00E1rea de trabalho\\webapi\\embalagemlojaapi\\embalagemlojaapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|solutionrelative:embalagemlojaapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|c:\\users\\55859\\onedrive\\\u00E1rea de trabalho\\webapi\\embalagemlojaapi\\embalagemlojaapi\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81C1C-951F-4D64-858F-5CC7F6415EB0}|EmbalagemLojaApi\\EmbalagemLojaApi.csproj|solutionrelative:embalagemlojaapi\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\README.md",
+              "RelativeDocumentMoniker": "EmbalagemLojaApi\\README.md",
+              "ToolTip": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\README.md",
+              "RelativeToolTip": "EmbalagemLojaApi\\README.md",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwDEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-30T21:35:35.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmbalagemLojaApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmbalagemLojaApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T19:17:12.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmbalagemLojaApi.http",
+              "DocumentMoniker": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\EmbalagemLojaApi.http",
+              "RelativeDocumentMoniker": "EmbalagemLojaApi\\EmbalagemLojaApi.http",
+              "ToolTip": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\EmbalagemLojaApi.http",
+              "RelativeToolTip": "EmbalagemLojaApi\\EmbalagemLojaApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-30T19:16:51.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmbalagemLojaApi\\Program.cs",
+              "ToolTip": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\Program.cs",
+              "RelativeToolTip": "EmbalagemLojaApi\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:12:15.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "EmbalagemLojaApi\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "EmbalagemLojaApi\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:40:36.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmbalagemLojaApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmbalagemLojaApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:26:07.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "EmbalagemLojaApi\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\Services\\TokenService.cs",
+              "RelativeToolTip": "EmbalagemLojaApi\\Services\\TokenService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAWwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:24:53.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Key.cs",
+              "DocumentMoniker": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\Key.cs",
+              "RelativeDocumentMoniker": "EmbalagemLojaApi\\Key.cs",
+              "ToolTip": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\Key.cs",
+              "RelativeToolTip": "EmbalagemLojaApi\\Key.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:21:37.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EmbalagemLojaApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\55859\\OneDrive\\\u00C1rea de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\appsettings.json",
+              "RelativeToolTip": "EmbalagemLojaApi\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T13:47:48.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
