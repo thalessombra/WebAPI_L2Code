@@ -83,6 +83,8 @@ namespace EmbalagemLojaApi.Controllers
                     if (caixaExistente.caixa != null)
                     {
                         caixaExistente.caixaSaida.Produtos.Add(produto.ProdutoID);
+                        caixaExistente.caixaSaida.Observacao = "Pedido embalado com sucesso";
+
                         // Atualiza a capacidade restante
                         var index = caixasAbertas.IndexOf(caixaExistente);
                         caixasAbertas[index] = (caixaExistente.caixa, caixaExistente.capacidadeRestante - volumeProduto, caixaExistente.caixaSaida);
@@ -97,7 +99,8 @@ namespace EmbalagemLojaApi.Controllers
                             var novaCaixaSaida = new CaixaSaida
                             {
                                 Caixa_Id = caixaParaAbrir.CaixaId,
-                                Produtos = new List<string> { produto.ProdutoID }
+                                Produtos = new List<string> { produto.ProdutoID },
+                                Observacao = "Pedido embalado com sucesso"
                             };
                             caixasAbertas.Add((caixaParaAbrir, CalculaVolume(caixaParaAbrir.Dimensoes) - volumeProduto, novaCaixaSaida));
                         }

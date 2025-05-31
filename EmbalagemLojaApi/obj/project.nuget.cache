@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qXhaHP7S2DY=",
+  "dgSpecHash": "DuG6gj7MqEw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\55859\\OneDrive\\Área de Trabalho\\WebAPI\\EmbalagemLojaApi\\EmbalagemLojaApi\\EmbalagemLojaApi.csproj",
+  "projectFilePath": "C:\\Users\\55859\\OneDrive\\Área de Trabalho\\WebAPI_L2Code\\EmbalagemLojaApi\\EmbalagemLojaApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\55859\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\55859\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
